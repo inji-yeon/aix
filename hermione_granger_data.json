@@ -1,0 +1,34 @@
+{
+    "name": "Hermione Granger",
+    "birthdate": "19 September 1979",
+    "background": "Muggle-born witch",
+    "education": {
+      "school": "Hogwarts School of Witchcraft and Wizardry",
+      "house": "Gryffindor",
+      "significant_years": [1991, 1992, 1993, 1994, 1995, 1996, 1997],
+      "achievements": [
+        "played a crucial role in protecting the Philosopher's Stone",
+        "discovered the Chamber of Secrets",
+        "used Time-Turner for extra studies",
+        "founded S.P.E.W.",
+        "member of Dumbledore's Army"
+      ]
+    },
+    "post_war_career": {
+      "jobs": [
+        "Ministry of Magic",
+        "Department of Magical Law Enforcement"
+      ],
+      "achievements": [
+        "advocated for house-elves",
+        "reformed pure-blood biased laws"
+      ],
+      "position": "Minister for Magic"
+    },
+    "personal_life": {
+      "married_to": "Ron Weasley",
+      "children": ["Rose", "Hugo"],
+      "godmother_of": "James Sirius Potter"
+    }
+  }
+  
